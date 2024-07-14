@@ -12,10 +12,10 @@ This repository contains the final project for the Data 604 course at CUNY SPS, 
 
 ## Files in the Repository
 
-1. **jjimenez_imaging_service_simulation.pdf** - A detailed document outlining the simulation, methodology, and findings.
-2. **jjimenez_imaging_service_simulation.ipynb** - The Jupyter Notebook containing the simulation code.
-3. **jjimenez_604_final.pptx** - The PowerPoint presentation summarizing the project and its findings.
-4. **jjimenez_604Final_supplemental.pdf** - Supplemental document with flowcharts and tables of parameters used in the simulation.
+1. [jjimenez_imaging_service_simulation.pdf](https://github.com/sleepysloth12/data604_final/blob/d35b9bb0df8e3237cd57d164c4d6cab5e0648fb6/jjimenez_imaging_service_simulation.pdf) - A detailed document outlining the simulation, methodology, and findings.
+2. [jjimenez_imaging_service_simulation.ipynb](https://github.com/sleepysloth12/data604_final/blob/d35b9bb0df8e3237cd57d164c4d6cab5e0648fb6/jjimenez_imaging_service_simulation.ipynb) - The Jupyter Notebook containing the simulation code.
+3. [jjimenez_604_final.pptx](https://github.com/sleepysloth12/data604_final/blob/d35b9bb0df8e3237cd57d164c4d6cab5e0648fb6/jjimenez_604_final.pptx) - The PowerPoint presentation summarizing the project and its findings.
+4. [jjimenez_604Final_supplemental.pdf](https://github.com/sleepysloth12/data604_final/blob/d35b9bb0df8e3237cd57d164c4d6cab5e0648fb6/jjimenez_604Final_supplemental.pdf) - Supplemental document with flowchart and tables of parameters used in the simulation.
 
 ## Assignment Instructions
 
@@ -28,7 +28,7 @@ The project involved creating a discrete event simulation using SimPy, focusing 
 5. **State Conclusions and Findings**
 6. **Generate Appropriate Graphs**
 
-## Project
+## What was done
 
 I create a scenario involving a patient undergoing an abdomen MRI scan, highlighting the importance of minimizing wait times in outpatient imaging services.
 
