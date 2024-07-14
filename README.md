@@ -1,4 +1,4 @@
-# Imaging Service Simulation README
+# Imaging Service Simulation
 
 data604_final
 
